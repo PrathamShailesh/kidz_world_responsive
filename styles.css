@@ -26,7 +26,7 @@ body{
 }
 
 .container{
-    background-image: url("/kidz-world-html-boilerplate/assets/kw-background.png");
+    background-image: url("/assets/kw-background.png");
     width: 100%;
     height: 60vh;
     background-repeat: no-repeat;
