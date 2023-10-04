@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    align-items: center;
+}
+
+.cart-logo{
+    display: flex;
+    align-items: center;
+
+}
+
+.cart-logo h2{
+    font-size: 20px;
+}
+
+.container{
+    background-image: url("/kidz-world-html-boilerplate/assets/kw-background.png");
+    width: 100%;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hash{
+    position: relative;
+    left: 100px;
+    top: 30px;
+    color: #fff;
+    line-height: 30px;
+    padding-top:30px ; 
+    font-size: 30px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 230px;
+}
+
+.all{
+    margin: 200px 80px 80px 80px;
+}
+
+.book-1{
+    width: fit-content;
+    line-height: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.book-1 img{
+    width: 180px;
+}
+
+.book-1 h3{
+    color: #868583;
+}
+
+.game-1 h3{
+    color: #868583;
+}
+
+.buy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add{
+    background-color: #6196FF;
+    display: flex;
+    align-items: center;
+    height: fit-content;
+    border-radius: 6px;
+    color:#fff;
+    font-size: 10px;
+    padding: 2px 4px;
+}
+
+.game-1 img{
+    height: 250px;
+    width: 250px;
+}
+
+.game-1{
+    width: fit-content;
+    line-height: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.new-games{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec{
+    margin-top: 100px;
+    margin-bottom: 230px;
+}
+
+.third{
+    margin-top: 100px;
+    margin-bottom: 230px;
+}
+
+.pic img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: #fff;
+    align-items: center;
+    padding: 0 0 0 40px;
+    height: 200px;
+}
+
+.krishti{
+    display: inline;
+    text-align: end;
+    padding: 30px 40px;
+}
