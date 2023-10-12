@@ -30,7 +30,7 @@ body{
 }
 
 .container{
-    background-image: url("/assets/kw-background.png");
+    background-image: url("./assets/kw-background.png");
     /* width:100%; */
     /* max-width: 1000px; */
     min-width: 1080px;
